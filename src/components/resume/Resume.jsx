@@ -1,6 +1,5 @@
 import { cv } from "../../Data";
 import Card from "./Card";
-import "./Resume.css";
 import "./resume.css";
 import shapeOne from "../../assets/shape-1.png";
 
