@@ -28,5 +28,3 @@ dist-ssr/
 public/CV.pdf
 public/vite.svg
 
-# Arquivos específicos para ignorar
-src/components/contact/Contact.jsx
