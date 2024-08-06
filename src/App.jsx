@@ -1,6 +1,6 @@
 import "./App.css";
 import Blog from "./components/blog/Blog";
-import Contact from "./components/contact/Contact";
+import Contact from './components/contact/Contact';
 import Footer from "./components/footer/Footer";
 import Header from "./components/header/Header";
 import Home from "./components/home/Home";
