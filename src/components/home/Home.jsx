@@ -1,7 +1,7 @@
 import profileImg from "../../assets/profile-img.png";
 import shapeOne from "../../assets/shape-1.png";
 import shapeTwo from "../../assets/shape-2.png";
-import "./home.css";
+import "./Home.css"
 import { FaInstagram, FaGithub, FaLinkedinIn } from "react-icons/fa";
 
 function Home() {
